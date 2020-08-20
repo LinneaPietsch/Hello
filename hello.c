@@ -12,6 +12,8 @@
      printf("Hello World!\n");
      printf("Linnea Pietsch\n");
      printf("English\n");
+     printf("Jake Cromer\n")
+     printf("Computer Science\n")
      
      return 0;
      
